@@ -1,0 +1,34 @@
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.BusinessLayer\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.BusinessLayer.deps.json
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.BusinessLayer\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.BusinessLayer.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.BusinessLayer\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.BusinessLayer.pdb
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.BusinessLayer\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.BusinessLayer.csproj.AssemblyReference.cache
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.BusinessLayer\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.BusinessLayer\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.BusinessLayer.AssemblyInfoInputs.cache
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.BusinessLayer\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.BusinessLayer.AssemblyInfo.cs
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.BusinessLayer\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.BusinessLayer\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.BusinessLayer.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.BusinessLayer\obj\Debug\net6.0\refint\CollaberaCodingExamFritzBatin.BusinessLayer.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.BusinessLayer\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.BusinessLayer.pdb
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.BusinessLayer\obj\Debug\net6.0\ref\CollaberaCodingExamFritzBatin.BusinessLayer.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.BusinessLayer\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.DataLayer.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.BusinessLayer\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.Model.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.BusinessLayer\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.DataLayer.pdb
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.BusinessLayer\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.Model.pdb
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.BusinessLayer\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.BusinessLayer.csproj.CopyComplete
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.BusinessLayer\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.BusinessLayer.deps.json
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.BusinessLayer\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.BusinessLayer.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.BusinessLayer\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.BusinessLayer.pdb
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.BusinessLayer\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.DataLayer.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.BusinessLayer\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.Model.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.BusinessLayer\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.DataLayer.pdb
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.BusinessLayer\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.Model.pdb
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.BusinessLayer\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.BusinessLayer.csproj.AssemblyReference.cache
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.BusinessLayer\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.BusinessLayer\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.BusinessLayer.AssemblyInfoInputs.cache
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.BusinessLayer\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.BusinessLayer.AssemblyInfo.cs
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.BusinessLayer\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.BusinessLayer\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.BusinessLayer.csproj.CopyComplete
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.BusinessLayer\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.BusinessLayer.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.BusinessLayer\obj\Debug\net6.0\refint\CollaberaCodingExamFritzBatin.BusinessLayer.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.BusinessLayer\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.BusinessLayer.pdb
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.BusinessLayer\obj\Debug\net6.0\ref\CollaberaCodingExamFritzBatin.BusinessLayer.dll

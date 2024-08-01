@@ -1,0 +1,28 @@
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.Model\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.Model.deps.json
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.Model\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.Model.runtimeconfig.json
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.Model\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.Model.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.Model\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.Model.pdb
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.Model\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.Model.csproj.AssemblyReference.cache
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.Model\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.Model\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.Model.AssemblyInfoInputs.cache
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.Model\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.Model.AssemblyInfo.cs
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.Model\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.Model.csproj.CoreCompileInputs.cache
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.Model\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.Model.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.Model\obj\Debug\net6.0\refint\CollaberaCodingExamFritzBatin.Model.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.Model\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.Model.pdb
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.Model\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.Model.genruntimeconfig.cache
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.Model\obj\Debug\net6.0\ref\CollaberaCodingExamFritzBatin.Model.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.Model\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.Model.deps.json
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.Model\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.Model.runtimeconfig.json
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.Model\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.Model.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.Model\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.Model.pdb
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.Model\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.Model.csproj.AssemblyReference.cache
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.Model\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.Model\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.Model.AssemblyInfoInputs.cache
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.Model\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.Model.AssemblyInfo.cs
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.Model\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.Model.csproj.CoreCompileInputs.cache
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.Model\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.Model.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.Model\obj\Debug\net6.0\refint\CollaberaCodingExamFritzBatin.Model.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.Model\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.Model.pdb
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.Model\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.Model.genruntimeconfig.cache
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.Model\obj\Debug\net6.0\ref\CollaberaCodingExamFritzBatin.Model.dll

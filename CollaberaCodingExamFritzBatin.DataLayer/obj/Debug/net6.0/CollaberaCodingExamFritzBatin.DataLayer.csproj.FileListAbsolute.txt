@@ -1,0 +1,34 @@
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.DataLayer\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.DataLayer.deps.json
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.DataLayer\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.DataLayer.runtimeconfig.json
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.DataLayer\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.DataLayer.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.DataLayer\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.DataLayer.pdb
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.DataLayer\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.DataLayer.csproj.AssemblyReference.cache
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.DataLayer\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.DataLayer\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.DataLayer.AssemblyInfoInputs.cache
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.DataLayer\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.DataLayer.AssemblyInfo.cs
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.DataLayer\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.DataLayer.csproj.CoreCompileInputs.cache
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.DataLayer\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.DataLayer.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.DataLayer\obj\Debug\net6.0\refint\CollaberaCodingExamFritzBatin.DataLayer.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.DataLayer\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.DataLayer.pdb
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.DataLayer\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.DataLayer.genruntimeconfig.cache
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.DataLayer\obj\Debug\net6.0\ref\CollaberaCodingExamFritzBatin.DataLayer.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.DataLayer\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.Model.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.DataLayer\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.Model.pdb
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin.DataLayer\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.DataLayer.csproj.CopyComplete
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.DataLayer\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.DataLayer.deps.json
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.DataLayer\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.DataLayer.runtimeconfig.json
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.DataLayer\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.DataLayer.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.DataLayer\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.DataLayer.pdb
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.DataLayer\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.Model.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.DataLayer\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.Model.pdb
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.DataLayer\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.DataLayer.csproj.AssemblyReference.cache
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.DataLayer\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.DataLayer\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.DataLayer.AssemblyInfoInputs.cache
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.DataLayer\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.DataLayer.AssemblyInfo.cs
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.DataLayer\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.DataLayer.csproj.CoreCompileInputs.cache
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.DataLayer\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.DataLayer.csproj.CopyComplete
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.DataLayer\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.DataLayer.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.DataLayer\obj\Debug\net6.0\refint\CollaberaCodingExamFritzBatin.DataLayer.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.DataLayer\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.DataLayer.pdb
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.DataLayer\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.DataLayer.genruntimeconfig.cache
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin.DataLayer\obj\Debug\net6.0\ref\CollaberaCodingExamFritzBatin.DataLayer.dll

@@ -1,0 +1,186 @@
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\appsettings.Development.json
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\appsettings.json
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.API.exe
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.API.deps.json
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.API.runtimeconfig.json
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.API.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.API.pdb
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.API.csproj.AssemblyReference.cache
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.API.AssemblyInfoInputs.cache
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.API.AssemblyInfo.cs
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.API.csproj.CoreCompileInputs.cache
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\staticwebassets\msbuild.CollaberaCodingExamFritzBatin.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\staticwebassets\msbuild.build.CollaberaCodingExamFritzBatin.API.props
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CollaberaCodingExamFritzBatin.API.props
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CollaberaCodingExamFritzBatin.API.props
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\staticwebassets.build.json
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\staticwebassets.development.json
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\scopedcss\bundle\CollaberaCodingExamFritzBatin.API.styles.css
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.API.csproj.CopyComplete
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.API.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\refint\CollaberaCodingExamFritzBatin.API.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.API.pdb
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.API.genruntimeconfig.cache
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\ref\CollaberaCodingExamFritzBatin.API.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Azure.Core.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Azure.Identity.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Humanizer.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\System.CodeDom.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\System.Text.Json.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.BusinessLayer.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.DataLayer.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.Model.dll
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.BusinessLayer.pdb
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.Model.pdb
+D:\Programming\Collabera\Exam\Source Code Exam\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.DataLayer.pdb
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\appsettings.Development.json
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\appsettings.json
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.API.exe
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.API.deps.json
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.API.runtimeconfig.json
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.API.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.API.pdb
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Azure.Core.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Azure.Identity.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Humanizer.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\System.CodeDom.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\System.Text.Json.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.BusinessLayer.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.DataLayer.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.Model.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.BusinessLayer.pdb
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.Model.pdb
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\bin\Debug\net6.0\CollaberaCodingExamFritzBatin.DataLayer.pdb
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.API.csproj.AssemblyReference.cache
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.API.AssemblyInfoInputs.cache
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.API.AssemblyInfo.cs
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.API.csproj.CoreCompileInputs.cache
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\staticwebassets\msbuild.CollaberaCodingExamFritzBatin.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\staticwebassets\msbuild.build.CollaberaCodingExamFritzBatin.API.props
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CollaberaCodingExamFritzBatin.API.props
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CollaberaCodingExamFritzBatin.API.props
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\staticwebassets.build.json
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\staticwebassets.development.json
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\scopedcss\bundle\CollaberaCodingExamFritzBatin.API.styles.css
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.API.csproj.CopyComplete
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.API.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\refint\CollaberaCodingExamFritzBatin.API.dll
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.API.pdb
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\CollaberaCodingExamFritzBatin.API.genruntimeconfig.cache
+D:\Programming\Collabera\Exam\CollaberaCodingExamFritzBatin\CollaberaCodingExamFritzBatin\obj\Debug\net6.0\ref\CollaberaCodingExamFritzBatin.API.dll
